@@ -1,0 +1,8 @@
+{
+    "access_token": "IGQWRQXzFmUXZARZAUo4ZADhSY2tUMElTSjc4TlZA6Ni02NlB1SkFFbnpNUUdDRl80NEtYZAjVOOU1Md2VRYXZAKYzJQZAGhCM3J4REdTNjFQbmxCcGlfN21OX3NTLVFXdkx2VjhiREQzNzJjaEhmTnRPLTBERXdES05ZATnFhWUYtS1g2cWRQUQZDZD",
+    "user_id": 8064630473664333,
+    "permissions": [
+        "instagram_graph_user_profile",
+        "instagram_graph_user_media"
+    ]
+}

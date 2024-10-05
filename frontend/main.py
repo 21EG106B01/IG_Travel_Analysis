@@ -1,4 +1,5 @@
 import streamlit as st
 
-st.header("Hello World!")
-st.text("Instagram Reach analysis - Travel")
+st.title("Instagram Reach Travel Analysis")
+st.text("Analyzing trends and pattern on user engagement with travel content")
+
