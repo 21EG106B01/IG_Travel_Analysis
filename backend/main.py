@@ -5,3 +5,7 @@ app = FastAPI()
 @app.get("/api/hello")
 def read_root():
     return {"message": "Hello from FastAPI!"}
+
+@app.get("/auth")
+def auth():
+    return {"Code": None}

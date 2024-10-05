@@ -6,6 +6,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-st.title("Instagram Reach Travel Analysis")
-st.text("Analyzing trends and pattern on user engagement with travel content")
+query_params = st.query_params
 
+st.header("Code: ")
+st.header(query_params['code'])
